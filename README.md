@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://codeforces.com/profile/vaibhavveerwaal" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Va1bhav512" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vaibhav-veerwaal-140465288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate Flutter developer
+ **<h3 align="left">🚀 Passionate developer
 🌱 Currently a student
 💻 Interested in machine learning
 📈 Newbie on codeforces</h3>**
